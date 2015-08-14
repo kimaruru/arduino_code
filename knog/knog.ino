@@ -1,3 +1,5 @@
+//attiny24
+
 int op=0;
  
 void setup(){
